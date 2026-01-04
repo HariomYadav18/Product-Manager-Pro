@@ -4,12 +4,15 @@
 A professional-grade product management application built with HTML5, CSS3, and React 18.
 
 🎯 Project Overview
+
 This is a frontend assignment showcasing a complete product management system with a modern, responsive UI. The application demonstrates proficiency in vanilla JavaScript, React components, advanced CSS styling, and frontend best practices.
 
 Live Demo: product-manager-pro.vercel.app
 
 ✨ Features
+
 📋 Product Management
+
 ✅ Display Products - View products in card or list view
 
 ✅ Add Products - Create new products with form validation
@@ -21,6 +24,7 @@ Live Demo: product-manager-pro.vercel.app
 ✅ Search Products - Real-time search with 500ms debounce optimization
 
 🎨 User Interface
+
 ✅ Dual View Modes - Toggle between card view and table view
 
 ✅ Responsive Design - Mobile-optimized layout (mobile, tablet, desktop)
@@ -32,6 +36,7 @@ Live Demo: product-manager-pro.vercel.app
 ✅ Form Validation - Real-time error messages and validation feedback
 
 📊 Data Management
+
 ✅ Pagination - 6 items per page with navigation controls
 
 ✅ Stock Status - Visual indicators (In Stock, Low Stock, Out of Stock)
@@ -41,6 +46,7 @@ Live Demo: product-manager-pro.vercel.app
 ✅ Auto-Refresh - Pagination resets on search for better UX
 
 ♿ Accessibility & UX
+
 ✅ Semantic HTML - Proper heading hierarchy and semantic elements
 
 ✅ Keyboard Navigation - Full keyboard accessibility support
@@ -52,10 +58,11 @@ Live Demo: product-manager-pro.vercel.app
 ✅ Empty States - Helpful messages when no products are found
 
 🛠️ Tech Stack
+
 Technology	Purpose	Details
-HTML5	Structure	Semantic markup, forms, accessibility
-CSS3	Styling	Grid/Flexbox, animations, responsive design, CSS variables
-JavaScript (ES6+)	Logic	DOM manipulation, event handling, array methods
+HTML5	 Structure	Semantic markup, forms, accessibility
+CSS3	  Styling	Grid/Flexbox, animations, responsive design, CSS variables
+JavaScript (ES6+)	 Logic	DOM manipulation, event handling, array methods
 React 18	Framework	Components, hooks, state management, CDN-based
 Babel	Transpiler	JSX support in browser without build process
 Key Libraries
@@ -64,12 +71,14 @@ React 18 (CDN)
 Babel Standalone (for JSX transpilation)
 
 📁 Project Structure
-text
+
 product-manager-pro/
 ├── index.html          # Single-file application with embedded CSS & JavaScript
 ├── README.md          # This file
 └── (deployment files)
+
 Why Single HTML File?
+
 ✅ Zero build process required
 
 ✅ CDN-based React (no npm dependencies)
@@ -81,7 +90,9 @@ Why Single HTML File?
 ✅ Professional practice for React CDN apps
 
 🚀 Getting Started
+
 Prerequisites
+
 A modern web browser (Chrome, Firefox, Safari, Edge)
 
 Text editor (VS Code recommended)
@@ -94,7 +105,7 @@ Local Development
 Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/product-manager-pro.git
+git clone https://github.com/HariomYadav18/Product-Manager-Pro.git
 cd product-manager-pro
 Open the application
 
